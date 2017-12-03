@@ -7,6 +7,7 @@ Authors@R: c(
       person("Bob", "Rudis", email = "bob@rud.is", role = c("aut", "cre"))
     )
 Maintainer: Bob Rudis <bob@rud.is>
+Contributor: Evan DeFilippis <edefilippis@g.harvard.edu>
 Description: 'Portable Game Notation' ('PGN') is a plain text computer-processible format 
     for recording chess games (both the moves and related data), supported by many chess 
     programs. It was was devised around 1993, by Steven J. Edwards, and was first 
